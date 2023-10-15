@@ -23,4 +23,4 @@ The way this works is by loading the network using the resnet-18-hand mdoel. The
 7. Type in the following URL in your web browser with your Jetson Nano IP address: http://<JETSON-IP>:8554
 8. Have Fun!
 
-[View a video explanation here](video link)
+[View a video explanation here](https://www.youtube.com/watch?v=xjASa_PToe8)
