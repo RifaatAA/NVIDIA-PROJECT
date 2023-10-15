@@ -1,6 +1,6 @@
 # Superhero Charades
 
-Have you ever wanted to play Charades with someone but nobody has the time for your? Well with this revolutionary code utilising the Jetson Nano, you can play a simple game of charades with your local conmputer. I guarantee that you will keep playing this exciting game until your computer stops functioning properly. 
+Have you ever wanted to play Charades with someone but nobody has had the time for your? Well with this revolutionary code utilising the Jetson Nano, you can play a simple game of charades with your local conmputer. I guarantee that you will keep playing this exciting game until your computer stops functioning properly. 
 
 I personally came up with this idea to help people with a lack of social skills, improve their confidence by using hand gestures to express themselves.
 
