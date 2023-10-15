@@ -4,13 +4,13 @@ Have you ever wanted to play Charades with someone but nobody has the time for y
 
 I personally came up with this idea to help people with a lack of social skills, improve their confidence by using hand gestures to express themselves.
 
-![add image descrition here](direct image link here)
+<img alt="Wolverine" src="https://github.com/RifaatAA/NVIDIA-PROJECT/assets/142425815/d8c0b971-6c19-4595-88bf-789f754b3d54">
 
 ## The Algorithm
 
 This is a game of charades using a logitech camera to detect your gestures and process each frame utilisng posenet to return a guess of the Superhero you are trying to impersonate. 
 
-The way this works is by loading the network using the resnet-18-hand mdoel. Then we need to access the webcam to grab the pose information from the model. We then get the key points that we need from the fingers to find the distance between the points using the distance formula. Once the distance is found we can depict which superhero from the following choises: Wolverine, Iron-Man, Jedi or batman. Based on the dataset, the finger sizes are decreasing as you go from left to right. The results will be displayed on the video-stream where the user can see which superhero they are. If no fingers are present, the program will return "Human" indicating that you have no powers, so if you want to be a superhero, use the code.
+The way this works is by loading the network using the resnet-18-hand mdoel. Then we would need to access the webcam to grab the pose information from the model. We then get the key points that we need from the fingers to find the distance between the 2 points using the distance formula. Once the distance is found, we can depict which superhero you are posing as from the following choises: Wolverine, Iron-Man, Jedi or Bat-Man. Based on the dataset, the finger sizes are decreasing as you go from left to right. The results will be displayed on the video-stream where the user can see which superhero they are destined to be. If no fingers are present, the program will return "Human" indicating that you have no powers. So if you want to become a superhero, just use the code.
 
 ## Running this project
 
